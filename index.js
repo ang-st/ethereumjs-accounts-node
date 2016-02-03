@@ -54,6 +54,8 @@ KeyStore.Set = function (key,value,reactive,callback) {
 
 };
 
+KeyStore.get = KeyStore.Get
+KeyStore.set = KeyStore.Set
 
 
 /**
